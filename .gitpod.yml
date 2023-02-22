@@ -1,3 +1,4 @@
+---
 # gitpod tasks
 tasks:
   - name: aws-cli
@@ -18,3 +19,4 @@ tasks:
 vscode:
   extensions:
     - 42crunch.vscode-openapi
+    - cweijan.vscode-postgresql-client2
