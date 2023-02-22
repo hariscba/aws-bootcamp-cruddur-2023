@@ -1,4 +1,4 @@
-# gitpod task
+# gitpod tasks
 tasks:
   - name: aws-cli
     env:
